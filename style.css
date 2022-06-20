@@ -1,0 +1,48 @@
+* {
+    background-color: lightblue;
+}
+.title {
+    text-align: center;
+}
+.button {
+    margin: 0 auto;
+    display: block;
+    background-color: lightgreen;
+    width: 40%;
+    font-size: 30px;
+    cursor: pointer;
+}
+.button2 {
+    background-color: #3B8DFA;
+    width: 30%;
+    margin: 0 auto;
+    display:block;
+    font-size: 25px;
+    border: 2px, green;
+    cursor: pointer;
+}
+.button3 {
+    background-color: #A92FF5;
+    width: 25%;
+    margin: 0 auto;
+    display:block;
+    font-size: 20px;
+    border: 2px,red;
+    cursor: pointer;
+}
+.rectangle1 {
+    position: relative;
+    width: 100px;
+    height: 1200px;
+    background: blue;
+    right: 1%;
+    top: -250px;
+}
+.rectangle2 {
+    position: relative;
+    width:100px;
+    height:1500px;
+    background: blue;
+    right: -1850px;
+    top: -250px;
+}
