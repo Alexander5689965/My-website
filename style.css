@@ -9,7 +9,7 @@
     display: block;
     background-color: lightgreen;
     width: 40%;
-    font-size: 30px;
+    font-size: 50px;
     cursor: pointer;
 }
 .button2 {
@@ -17,7 +17,7 @@
     width: 30%;
     margin: 0 auto;
     display:block;
-    font-size: 25px;
+    font-size: 55px;
     border: 2px, green;
     cursor: pointer;
 }
@@ -26,23 +26,23 @@
     width: 25%;
     margin: 0 auto;
     display:block;
-    font-size: 20px;
+    font-size: 40px;
     border: 2px,red;
     cursor: pointer;
 }
 .rectangle1 {
-    position: relative;
-    width: 100px;
-    height: 1200px;
+    position: absolute;
+    width: 2050px;
+    height: 10000px;
     background: blue;
-    right: 1%;
-    top: -250px;
+    right: 1550px;
+    top: -500px;
 }
 .rectangle2 {
-    position: relative;
-    width:100px;
-    height:1500px;
+    position: absolute;
+    width:600px;
+    height:10000px;
     background: blue;
-    right: -1850px;
-    top: -250px;
+    right: -1650px;
+    top: -500px;
 }
