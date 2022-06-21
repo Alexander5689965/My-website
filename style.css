@@ -5,14 +5,17 @@
     text-align: center;
 }
 .button {
+    position: absolute;
     margin: 0 auto;
     display: block;
     background-color: lightgreen;
     width: 40%;
     font-size: 50px;
     cursor: pointer;
+    left: 1500px;
 }
 .button2 {
+    position: absolute;
     background-color: #3B8DFA;
     width: 30%;
     margin: 0 auto;
@@ -20,8 +23,10 @@
     font-size: 55px;
     border: 2px, green;
     cursor: pointer;
+    left: 1500px;
 }
 .button3 {
+    position: absolute;
     background-color: #A92FF5;
     width: 25%;
     margin: 0 auto;
@@ -29,6 +34,7 @@
     font-size: 40px;
     border: 2px,red;
     cursor: pointer;
+    left: 1500px;
 }
 .rectangle1 {
     position: absolute;
